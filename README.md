@@ -37,7 +37,7 @@ Open a index.html file and use live server extension by right click and select
     Open with Live Server
    ```
 
-You can also check out the live version of Rock Papper Scissors by clicking [here](https://boyandmtrv.github.io/Rock-Papper-Scissors-JS/)
+You can also check out the live version of Rock Papper Scissors by clicking [here](https://rpapersjs.netlify.app/)
    
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
