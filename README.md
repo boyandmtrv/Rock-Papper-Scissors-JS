@@ -8,7 +8,7 @@
 
 
 ## About The Project
-![rockpaper](https://github.com/boyandmtrv/Rock-Papper-Scissors-JS/assets/122356573/70419c52-95ad-45b7-9d3c-40d3262a0835)
+![rockpaperscissors](https://github.com/boyandmtrv/Rock-Papper-Scissors-JS/assets/122356573/c3b2727e-c305-418b-95ee-b1078ed450c9)
 
 Web application that lets you play the classic game of Rock, Paper, Scissors against the computer. Make your choice, wait for the computer to decide, and see who wins each round. The computer's choice is randomly generated, adding an element of unpredictability to the game.
 
